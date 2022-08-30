@@ -27,7 +27,6 @@ const QuoteForm = (props) => {
   const formFocusHandler = () => {
     setIsEntering(true);
   };
-
   return (
     <>
       <Prompt
